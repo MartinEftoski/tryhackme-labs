@@ -6,7 +6,7 @@ This repository contains my personal notes, reflections, and command references 
 
 ## Labs Completed
 
-### 🛡️ Offensive Security Intro
+# Offensive Security Intro
 
 - ✅ Completed on: Aug 6, 2025
 - 🧠 Key learnings:
@@ -17,7 +17,9 @@ This repository contains my personal notes, reflections, and command references 
 - 📸 <img width="1919" height="942" alt="Screenshot 2025-08-06 172417" src="https://github.com/user-attachments/assets/2748311f-7646-4b58-a2ae-487ac2dc9cb1" />
 
 
-# Defensive Security Intro – TryHackMe
+
+# 🛡️ Defensive Security Intro – TryHackMe
+
 
 ✅ Completed on: Aug 7, 2025  
 🔗 [TryHackMe Room](https://tryhackme.com/room/defensivesecurityintro)
