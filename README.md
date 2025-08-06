@@ -6,15 +6,20 @@ This repository contains my personal notes, reflections, and command references 
 
 ## Labs Completed
 
-# Offensive Security Intro
+---
 
-- ✅ Completed on: Aug 6, 2025
+### 🛡️ Defensive Security Intro
+- ✅ Completed on: Aug 7, 2025
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/defensiveintro)
 - 🧠 Key learnings:
-  - Network enumeration with Nmap
-  - Basic web vulnerability discovery
-  - Hands-on exploitation techniques
-- 🔗 [TryHackMe Room](https://tryhackme.com/room/offensivesecurityintro)
-- 📸 <img width="1919" height="942" alt="Screenshot 2025-08-06 172417" src="https://github.com/user-attachments/assets/2748311f-7646-4b58-a2ae-487ac2dc9cb1" />
+  - Understanding the role of defensive cybersecurity
+  - Basics of threat detection and prevention
+  - Introduction to firewall rules and network monitoring
+  - Familiarization with SIEM tools (like Splunk)
+- 📸 Screenshot:
+
+![Defensive Security Intro Screenshot](./defensive-security-intro/screenshot.png)
+
 
 
 
