@@ -21,7 +21,7 @@ I learned how to identify vulnerable services, perform basic enumeration using N
 The lab gave me a solid foundation for more advanced penetration testing concepts.
 
 #### 📸 Screenshot:
-![Offensive Security Intro Screenshot](./offensive-security-intro/screenshot.png)
+![Offensive Security Intro Screenshot](defensive)
 
 ---
 
