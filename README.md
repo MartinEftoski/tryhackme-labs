@@ -15,6 +15,11 @@ This repository contains my personal notes, reflections, and command references 
 - Basic web vulnerability discovery  
 - Hands-on exploitation techniques
 
+#### 📝 Summary:
+This room introduced the core principles of offensive cybersecurity, focusing on how attackers think and operate.
+I learned how to identify vulnerable services, perform basic enumeration using Nmap, and simulate simple exploitation scenarios.
+The lab gave me a solid foundation for more advanced penetration testing concepts.
+
 #### 📸 Screenshot:
 ![Offensive Security Intro Screenshot](./offensive-security-intro/screenshot.png)
 
@@ -37,7 +42,8 @@ This repository contains my personal notes, reflections, and command references 
 - Linux command-line utilities
 
 #### 📝 Summary:
-This room introduced core concepts of defensive security, focusing on how to protect systems from common threats. I learned how defenders think, what tools they use, and how logs and traffic monitoring are used in real-world scenarios.
+This room introduced core concepts of defensive security, focusing on how to protect systems from common threats.
+I learned how defenders think, what tools they use, and how logs and traffic monitoring are used in real-world scenarios.
 
 #### 📸 Screenshot:
 ![Defensive Security Intro Screenshot](./defensive-security-intro/screenshot.png)
