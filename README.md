@@ -21,7 +21,7 @@ I learned how to identify vulnerable services, perform basic enumeration using N
 The lab gave me a solid foundation for more advanced penetration testing concepts.
 
 #### 📸 Screenshot:
-![Offensive Security Intro Screenshot](defensive)
+![Offensive Security Intro Screenshot](offensive.png)
 
 ---
 
@@ -46,4 +46,4 @@ This room introduced core concepts of defensive security, focusing on how to pro
 I learned how defenders think, what tools they use, and how logs and traffic monitoring are used in real-world scenarios.
 
 #### 📸 Screenshot:
-![Defensive Security Intro Screenshot](./defensive-security-intro/screenshot.png)
+![Defensive Security Intro Screenshot](defensive.png)
