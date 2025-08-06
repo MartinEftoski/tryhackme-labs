@@ -22,7 +22,7 @@ This repository contains my personal notes, reflections, and command references 
 
 ### 🛡️ Defensive Security Intro
 - ✅ Completed on: Aug 7, 2025  
-- 🔗 [TryHackMe Room](https://tryhackme.com/room/defensiveintro)
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/defensivesecurityintro)
 
 #### 🧠 Key Learnings:
 - Understanding the role of defensive cybersecurity  
