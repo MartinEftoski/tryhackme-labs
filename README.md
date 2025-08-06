@@ -13,4 +13,4 @@ This repository contains my personal notes, reflections, and command references 
   - Basic web vulnerability discovery
   - Hands-on exploitation techniques
 - 🔗 [TryHackMe Room](https://tryhackme.com/room/offensivesecurityintro)
-- 📸 [Add screenshot here if needed]
+- 📸 <img width="1919" height="942" alt="Screenshot 2025-08-06 172417" src="https://github.com/user-attachments/assets/2748311f-7646-4b58-a2ae-487ac2dc9cb1" />
