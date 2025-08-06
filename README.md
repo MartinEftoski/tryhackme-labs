@@ -12,5 +12,5 @@ This repository contains my personal notes, reflections, and command references 
   - Network enumeration with Nmap
   - Basic web vulnerability discovery
   - Hands-on exploitation techniques
-- 🔗 [TryHackMe Room](https://tryhackme.com/room/offsecintro)
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/offensivesecurityintro)
 - 📸 [Add screenshot here if needed]
