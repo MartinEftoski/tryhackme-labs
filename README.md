@@ -64,5 +64,6 @@ I learned how defenders think, what tools they use, and how logs and traffic mon
 📌 This room strengthened my recon skills and gave me insight into real-world information gathering techniques.
 A solid foundation for any aspiring cybersecurity professional.
 
-#### 📸 Screenshot:![Search Skills Screenshot](Screenshot 2025-08-07 160943.png)
+#### 📸 Screenshot:
+![Search Skills Intro Screenshot](Searchskills)
 
