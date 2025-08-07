@@ -47,3 +47,23 @@ I learned how defenders think, what tools they use, and how logs and traffic mon
 
 #### 📸 Screenshot:
 ![Defensive Security Intro Screenshot](defensive.png)
+
+
+## 🔍 Search Skills
+
+📅 Completed: August 7, 2025  
+🧠 Focus: OSINT (Open Source Intelligence), Reconnaissance  
+🔗 [TryHackMe Room – Search Skills](https://tryhackme.com/room/searchskills)  
+
+### What I learned:
+- How to use Google Dorking to uncover information online
+- Username and email address investigation techniques
+- Metadata extraction from images and documents
+- Basic use of OSINT tools and methodology
+
+📌 This room strengthened my recon skills and gave me insight into real-world information gathering techniques.
+A solid foundation for any aspiring cybersecurity professional.
+
+#### 📸 Screenshot:
+
+
