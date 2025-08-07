@@ -53,7 +53,7 @@ I learned how defenders think, what tools they use, and how logs and traffic mon
 
 📅 Completed: August 7, 2025  
 🧠 Focus: OSINT (Open Source Intelligence), Reconnaissance  
-🔗 [TryHackMe Room – Search Skills](https://tryhackme.com/room/searchskills)  
+🔗 [TryHackMe Room](https://tryhackme.com/room/searchskills)  
 
 ### What I learned:
 - How to use Google Dorking to uncover information online
