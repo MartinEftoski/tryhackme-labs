@@ -65,5 +65,5 @@ I learned how defenders think, what tools they use, and how logs and traffic mon
 A solid foundation for any aspiring cybersecurity professional.
 
 #### 📸 Screenshot:
-![Search Skills Intro Screenshot](Searchskills)
+![Search Skills Intro Screenshot](Search skills)
 
