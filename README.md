@@ -91,6 +91,6 @@ In this room, I explored the core basics of Linux, focusing on essential command
 This foundational knowledge is crucial for any cybersecurity work, as many servers and security tools are Linux-based.
 
 #### 📸 Screenshot:
-![Linux Fundamentals Part 1 Screenshot](linux-fundamentals-part1.png)
+![Linux Fundamentals Part 1 Screenshot](linux1.png)
 
 ---
