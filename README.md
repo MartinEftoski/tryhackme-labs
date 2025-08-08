@@ -48,6 +48,7 @@ I learned how defenders think, what tools they use, and how logs and traffic mon
 #### 📸 Screenshot:
 ![Defensive Security Intro Screenshot](defensive.png)
 
+---
 
 ## 🔍 Search Skills
 
@@ -67,3 +68,29 @@ A solid foundation for any aspiring cybersecurity professional.
 #### 📸 Screenshot:
 ![Search Skills Intro Screenshot](Search-skills.png)
 
+---
+
+### 🐧 Linux Fundamentals – Part 1  
+- ✅ Completed on: Aug 8, 2025  
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart1)
+
+#### 🧠 Key Learnings:
+- Introduction to Linux operating system  
+- Basic Linux commands and navigation  
+- Understanding the filesystem structure  
+- File and directory management via CLI
+
+#### 🔧 Tools / Techniques Used:
+- Linux terminal basics  
+- `ls`, `cd`, `pwd`, `cat`, `echo`  
+- Working with hidden files and directories  
+- Manual pages (`man`) usage
+
+#### 📝 Summary:
+In this room, I explored the core basics of Linux, focusing on essential commands, filesystem navigation, and file manipulation.  
+This foundational knowledge is crucial for any cybersecurity work, as many servers and security tools are Linux-based.
+
+#### 📸 Screenshot:
+![Linux Fundamentals Part 1 Screenshot](linux-fundamentals-part1.png)
+
+---
