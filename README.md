@@ -90,7 +90,25 @@ A solid foundation for any aspiring cybersecurity professional.
 In this room, I explored the core basics of Linux, focusing on essential commands, filesystem navigation, and file manipulation.  
 This foundational knowledge is crucial for any cybersecurity work, as many servers and security tools are Linux-based.
 
-#### 📸 Screenshot:
-![Linux Fundamentals Part 1 Screenshot](linux1.png)
-
 ---
+
+### 🪟 Windows Fundamentals – Part 1
+- ✅ Completed on: Aug 9, 2025  
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/windowsfundamentals1xbx)
+
+#### 🧠 Key Learnings:
+- Basic Windows OS concepts and navigation  
+- Intro to Active Directory concepts and user accounts  
+- Fundamental PowerShell / Command Line commands  
+- File and permission basics in Windows environments
+
+#### 🔧 Tools / Techniques Used:
+- Windows Command Prompt & PowerShell basics  
+- User & group management overview  
+- Understanding Event Viewer and basic log inspection
+
+#### 📝 Summary:
+This room provided a strong introduction to Windows system fundamentals, covering essential commands, account management, and basic log inspection techniques. These skills are crucial for both offensive and defensive roles when working with Windows environments.
+
+#### 📸 Screenshot:
+![Windows Fundamentals Part 1 Screenshot](wf1.png)
