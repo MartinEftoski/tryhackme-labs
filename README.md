@@ -90,6 +90,9 @@ A solid foundation for any aspiring cybersecurity professional.
 In this room, I explored the core basics of Linux, focusing on essential commands, filesystem navigation, and file manipulation.  
 This foundational knowledge is crucial for any cybersecurity work, as many servers and security tools are Linux-based.
 
+#### 📸 Screenshot:
+![Linux Fundamentals Part 1 Screenshot](linux1.png)
+
 ---
 
 ### 🪟 Windows Fundamentals – Part 1
