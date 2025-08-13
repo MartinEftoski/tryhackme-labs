@@ -115,3 +115,22 @@ This room provided a strong introduction to Windows system fundamentals, coverin
 
 #### 📸 Screenshot:
 ![Windows Fundamentals Part 1 Screenshot](wf1.png)
+
+---
+
+### 🪟 Windows Fundamentals – Part 2
+- ✅ Completed on: Aug 13, 2025
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/windowsfundamentals2x0x)
+
+#### 🧠 Key Learnings:
+- Logging into Windows machines remotely using RDP
+- Advanced Windows command-line basics
+- File system navigation and management
+- User and permission management
+- Introduction to PowerShell commands for system administration
+
+#### 📝 Summary:
+This room expanded my Windows fundamentals knowledge, focusing on navigating and managing Windows environments efficiently. I learned remote access techniques, user permissions, and basic system administration commands, building a foundation for future defensive security labs.
+
+#### 📸 Screenshot:
+![Windows Fundamentals Part 2 Screenshot](wf2.png)
