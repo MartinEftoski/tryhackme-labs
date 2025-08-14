@@ -134,3 +134,23 @@ This room expanded my Windows fundamentals knowledge, focusing on navigating and
 
 #### 📸 Screenshot:
 ![Windows Fundamentals Part 2 Screenshot](wf2.png)
+
+---
+
+### 🪟 Windows Fundamentals – Part 3
+- ✅ Completed on: Aug 14, 2025
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/windowsfundamentals3xzx)
+
+#### 🧠 Key Learnings:
+- Advanced file system navigation and management
+- Using PowerShell for system tasks and automation
+- Windows system configuration and troubleshooting basics
+- Understanding services, processes, and startup programs
+- Basics of Windows security features and access control
+
+#### 📝 Summary:
+This room completed my Windows fundamentals journey on TryHackMe. I gained hands-on experience with PowerShell, system management, and Windows security basics, preparing me for more advanced offensive and defensive security challenges.
+
+#### 📸 Screenshot:
+![Windows Fundamentals Part 3 Screenshot](wf3.png)
+
