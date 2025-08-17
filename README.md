@@ -154,3 +154,22 @@ This room completed my Windows fundamentals journey on TryHackMe. I gained hands
 #### 📸 Screenshot:
 ![Windows Fundamentals Part 3 Screenshot](wf3.png)
 
+---
+### 🏢 Active Directory Basics
+- ✅ Completed on: Aug 17, 2025  
+- 🔗 [TryHackMe Room](https://tryhackme.com/room/winadbasics)
+
+#### 🧠 Key Learnings:
+- What Active Directory (AD) is and why organizations use it  
+- Understanding **Domains, Domain Controllers, and Forests**  
+- User, Group, and Computer objects within AD  
+- Basics of **Group Policy Objects (GPOs)** and how they control environments  
+- Authentication and authorization flow in AD  
+- How AD is structured and how attackers/defenders view it  
+
+#### 📝 Summary:
+This room introduced me to the fundamentals of Active Directory, the backbone of enterprise environments. I learned how AD organizes resources, manages users, and enforces policies. This knowledge is essential for both penetration testing and defensive security roles, as AD is a primary target in real-world attacks.  
+
+#### 📸 Screenshot:
+![Active Directory Basics Screenshot](adb.png)
+
